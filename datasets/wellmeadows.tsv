@@ -1,0 +1,11 @@
+PatientNumber	 FullName	 BedNumber	 Ward Number	 WardName	 DrugNumber	 Name	 Description	 Dosage	 Method_of_Admin	 Units_per_Day	 StartDate	 FinishDate
+P10034	 Robert MacDonald	84	 Ward 11	 Orthopaedic	10223	 Morphine	 Pain Killer	 10 mg/ml	 Oral	50	 24/03/01	 24/04/02
+P10034	 Robert MacDonald	84	 Ward 11	 Orthopaedic	10334	 Tetracyclene	 Antibiotic	 0.5 mg/ml	 IV	10	 24/03/01	 17/04/01
+P10034	 Robert MacDonald	84	 Ward 11	 Orthopaedic	10223	 Morphine	 Pain Killer	 10 mg/ml	 Oral	10	 25/04/02	 02/05/03
+P10036	 John Smith	84	 Ward 11	 Orthopaedic	10225	 Paracetamol	 Pain Killer	 0.5 mg/ml	 Oral	3	 25/04/02	 02/05/03
+P10036	 John Smith	84	 Ward 11	 Orthopaedic	10226	 Paracetamol	 Pain Killer	 0.7 mg/ml	 IV	3	 25/04/02	 02/05/03
+P10038	 Paul Jones	86	 Ward 12	 Yet another ward	10223	 Morphine	 Pain Killer	 10 mg/ml	 Oral	10	 24/03/01	 24/04/02
+P10038	 Paul Jones	86	 Ward 12	 Yet another ward	10223	 Morphine	 Pain Killer	 10 mg/ml	 Oral	10	 24/04/01	 24/08/02
+P10034	 Robert MacDonald	86	 Ward 13	 Another ward	10226	 Paracetamol	 Pain Killer	 0.7 mg/ml	 IV	50	 25/04/02	 24/08/02
+P10036	 John Smith	85	 Ward 14	 Yet another ward	10334	 Tetracyclene	 Antibiotic	 0.5 mg/ml	 IV	10	 24/03/01	 17/04/01
+P10038	 Paul Jones	85	 Ward 14	 Yet another ward	10335	 Tetracyclene	 Antibiotic oral	 0.6 mg/ml	 Oral	8	 24/04/02	 24/08/02

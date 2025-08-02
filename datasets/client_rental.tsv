@@ -1,0 +1,9 @@
+clientNo	 propertyNo	 cName	 pAddress	 rentStart	 rentFinish	 rent	 ownerNo	 oName
+CR76	 PG4	 John Kay	 6 Lawrence St. Glasgow	 1-Jul-12	 31-Aug-13	350	 CO40	 Tina Murphy
+CR76	 PG16	 John Kay	 5 Novar Dr. Glasgow	 1-Sep-13	 1-Sep-14	450	 CO93	 Tina Shaw
+CR566	 PG4	 Aline Stewart	 6 Lawrence St. Glasgow	 1-Sep-11	 10-Jun-12	350	 CO40	 Tina Murphy
+CR56	 PG36	 Aline Stewart	 2 Manor Rd. Glasgow	 1-Oct-12	 1-Dec-13	375	 CO93	 Tina Shaw
+CR56	 PG16	 Aline Stewart	 5 Novar Dr. Glasgow	 1-Nov-14	 10-Aug-15	450	 CO93	 Tina Shaw
+CR56	 PG26	 Aline Stewart	 6 Lawrence St. Glasgow	 1-Sep-12	 31-Ago-14	375	 CO93	 Tina Shaw
+CR566	 PG5	 Aline Stewart	 6 Lawrence St. Glasgow	 1-Jul-12	 31-Ago-14	375	 CO40	 Tina Murphy
+CR48	 PG27	 Michael Smith	 24 Novar Dr. Glasgow	 1-Jul-12	 31-Ago-14	450	 C080	 Joseph Bird

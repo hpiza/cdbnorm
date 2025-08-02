@@ -1,0 +1,12 @@
+beer	 brewery	 strength	 city	 region	 warehouse	 quantity
+Choice	 Websters	 XX	 York	 North West	1	200
+Choice	 Websters	 XX	 York	 North West	4	100
+Choice	 Websters	 XX	 York	 North West	8	200
+Old Bob	 Websters	 XXX	 York	 North West	1	300
+Old Bob	 Websters	 XXX	 York	 North West	2	300
+Landlord	 Taylors	 XXX	 Leeds	 North West	8	200
+Landlord	 Taylors	 XXX	 Leeds	 North West	3	190
+Directors	 Fremlins	 X	 London	 South East	6	400
+Directors	 Fremlins	 X	 London	 South East	4	290
+Wobbly Joe	 Sam Smith	 XXXX	 York	 North West	4	90
+Watery	 Whibread	 O	 London	 South East	 null	 null

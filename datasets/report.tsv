@@ -1,0 +1,9 @@
+report_no	 editor	 dept_no	 dept_name	 dept_addr	 author_id	 author_name	 author_addr
+4216	 woolf	15	 design	 argus1	53	 tremaine	 rutgers
+4216	 woolf	15	 design	 argus1	44	 bolton	 mathrev
+4216	 woolf	15	 design	 argus1	71	 koenig	 mathrev
+5789	 koenig	27	 analysis	 argus2	26	 fry	 folkstone
+5789	 koenig	27	 analysis	 argus2	38	 umar	 prise
+5789	 koenig	27	 analysis	 argus2	71	 koenig	 mathrev
+6125	 koenig	15	 design	 argus1	53	 tremaine	 rutgers
+6125	 koenig	15	 design	 argus1	60	 bolton	 prise
